@@ -12,7 +12,6 @@
 
 ## Languages & Tools: 🧰
 
-![](https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DBFB)
 ![](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=3F3E42)
