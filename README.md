@@ -1,16 +1,14 @@
 <!-- # Hola Amigos,<br> I'm Pranav - aka [NoddY] 👋 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffecd2&size=29&multiline=true&width=900&lines=Welcome+To+The+Pranav+Dhawale's+Github+Profile)](https://git.io/typing-svg)
-
 <img style="width:100%" src="bg.png">
 
 ## About Me: 🤗
 
-- 📚 I’m currently exploring MERN Stack
-- 🥅 2023 Goals: Learn more about Web Development 🕸️
+- 📚 I’m currently Working as a Blockchain frontend Developer.
+- 🥅 2023 Goals: Learn more about Faster Production level Applications Using .NET and explore Blockchain with solana🕸️
 - 👯 I’m looking to collaborate on Real World Applications 😃
-- ⚡ Fun fact: I ❤️ to Eat 🍽️ and Travel 🧳
-- 🎓 Education: Pursing Diploma in Computer Engineering 🖥️
+- ⚡ Intrested Tech: .NET, Blockchain, MERN Stack.
+- 🎓 Education: Pursing Master's in Computer Science 🖥️
 
 ## Languages & Tools: 🧰
 
@@ -24,13 +22,13 @@
 
 ## Connect with me: 💻
 
-<a href="mailto:pranavdhawale19@gmail.com">
+<a href="mailto:tthakare73@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/pranav-dhawale-324452212/" target="_blank" >
+<a href="https://www.linkedin.com/in/tejas-thakare-041281152/" target="_blank" >
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/pranav_dhawale_19" target="_blank">
+<a href="https://www.instagram.com/thakare_tejas_23" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
@@ -39,12 +37,12 @@
 <details>
 <summary><h2>🔥 GitHub Stats</h2></summary>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pranavdhawale&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ttejas123&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 
 </details>
 
 <div align="right">
 
-![Github Profile Views](https://komarev.com/ghpvc/?username=pranavdhawale&color=181717&style=flat-square&label=Profile+Views)
+![Github Profile Views](https://komarev.com/ghpvc/?username=ttejas123&color=181717&style=flat-square&label=Profile+Views)
 
 </div>
