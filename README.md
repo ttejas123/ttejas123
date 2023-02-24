@@ -2,6 +2,8 @@
 
 <img style="width:100%" src="bg.png">
 
+## Visit My Portfolio
+<a href="https://tejasprotfolio.netlify.app/">Portfolio</a>
 ## About Me: 🤗
 
 - 📚 I’m currently Working as a Blockchain frontend Developer.
